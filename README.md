@@ -12,4 +12,5 @@ STRUCTURE		  : Diwali_Sales_Insights_Analysis/Diwali Sales Data.csv
 
 
 requirements.txt           : To specify all required libraries
-Run		           : pip install -r requirements.txt
+
+Run		              : pip install -r requirements.txt
